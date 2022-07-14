@@ -1,16 +1,6 @@
 # doors
 
-A new Flutter project.
+This is a Story Book app where I can upload any book in text content in the Database and this App will be able to pull the Data and reflect in the App.
+This app has great visuals and very soothing UI for book reading where the reader will find background changing while scrolling through the Text and also there is many animation that I created custom.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
